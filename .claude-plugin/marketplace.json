@@ -1,0 +1,16 @@
+{
+  "name": "amer-tools",
+  "owner": {
+    "name": "Ahmad Khorsheed"
+  },
+  "metadata": {
+    "description": "Team git workflow tools: safe sync, clean commits, pre-flight checks and one-command pull requests."
+  },
+  "plugins": [
+    {
+      "name": "amer",
+      "source": "./plugin",
+      "description": "Easy, safe team git workflow with /amer-* commands (sync, commit, check, push + pull request)."
+    }
+  ]
+}

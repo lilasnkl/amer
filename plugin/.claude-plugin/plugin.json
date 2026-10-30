@@ -1,0 +1,9 @@
+{
+  "name": "amer",
+  "version": "2.1.0",
+  "description": "Easy, safe team git workflow: /amer <task> (agent does the task and ships it end to end), /amer-start (sync with team), /amer-save (clean commit + version bump), /amer-check (pre-flight tests), /amer-ship (push + pull request), /amer-status, /amer-undo, /amer-setup, /amer-help.",
+  "author": {
+    "name": "Ahmad Khorsheed"
+  },
+  "keywords": ["git", "github", "pull-request", "workflow", "odoo", "team"]
+}
