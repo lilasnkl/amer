@@ -32,7 +32,7 @@ Options: `--only claude,omp,antigravity` forces specific tools. `--uninstall` re
 
 **Claude Code only?** Two commands inside Claude Code, no install script needed:
 ```
-/plugin marketplace add lilasnkl/amer
+/plugin marketplace add https://github.com/lilasnkl/amer.git
 /plugin install amer@amer-tools
 ```
 The engine (`~/.teamflow/flow.py`) is set up on first use: if it's missing, the command copies it from
